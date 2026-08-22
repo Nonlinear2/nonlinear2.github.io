@@ -1,0 +1,97 @@
+baseURL: "https://nonlinear2.github.io/"
+languageCode: "en-us"
+title: "Nonlinear"
+theme: ["PaperMod"]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts", "papermod"]
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+pagination:
+  disableAliases: false
+  pagerSize: 3
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: About
+          url: about
+          weight: 1
+        - name: Archive
+          url: archives
+          weight: 2
+        - name: Search
+          url: search/
+          weight: 2
+        - name: Resources
+          url: resources/
+          weight: 4
+
+outputFormats:
+  llms:
+    mediaType: "text/plain"
+    baseName: "llms"
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+    - llms
+
+params:
+  env: production
+
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  homeInfoParams:
+    Title: "Nonlinear's blog"
+    Content: |
+      Hi! I'm Nonlinear, a maths and physics student who enjoys coding in my spare time.
+      
+      I would like to write here about my projects, pieces of math I come across, good learning resources,
+      and whatever interests I have at the moment.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/Nonlinear2"
+    
+    - name: math-stackexchange
+      url: "https://math.stackexchange.com/users/1202606/nonlinear"
+      title: "Math StackExchange"
+
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+            - - '\['
+              - '\]'
+            - - '$$'
+              - '$$'
+          inline:
+            - - '\('
+              - '\)'
+            - - '$'
+              - '$'
