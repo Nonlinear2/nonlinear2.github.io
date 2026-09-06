@@ -60,3 +60,13 @@ A collection of books, websites, and other resources that I have found useful.
 
 - [Typo](https://typ.dev/pvs)
   Expositor developer's blog.
+
+- [aletheia](https://aletheiaaaaa.github.io/)
+  Episteme developer's blog
+
+- [87flowers](https://87flowers.com/)
+  Rose developer's blog.
+
+### Other
+
+- [A great article](https://www.imo.universite-paris-saclay.fr/~amaury.freslon/Documents/Talks/Rentree_M2.pdf) about _quantum graph theory_.
