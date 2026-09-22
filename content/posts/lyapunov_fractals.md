@@ -1,7 +1,7 @@
 +++
 date = '2026-08-18T22:34:35+02:00'
 draft = false
-title = 'Lyapunov_fractals'
+title = 'Lyapunov Fractals'
 +++
 
 As you can see by my profile picture and website design, I'm particularly fond of Lyapunov fractals. This project was my first attempt to learn about GPU programming, and was inspired by [this](https://youtube...) great video by desdenova. 

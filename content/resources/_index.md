@@ -10,7 +10,7 @@ A collection of books, websites, and other resources that I have found useful.
 ### Elementary Linear Algebra
 
 - **B.B Hubbard & J.H. Hubbard *Vector calculus linear algebra and differential forms a unified approach***
-  Chapters 1 and 2 are a great complement to a first year linear algebra course. I haven't read the whole book though.
+  Chapters 1 and 2 are a great complement to a first year linear algebra course. I haven't read the whole book.
 
 ### Algebra
 
@@ -30,7 +30,7 @@ A collection of books, websites, and other resources that I have found useful.
 - **E. M. Stein & R. Shakarchi — *Complex analysis***
   The best book on (elementary) complex analysis I could find by far.
   Everything is great until the parts on the Gamma, Zeta functions and elliptic functions, as it becomes 
-  too computationally tedious for me at that point. I lack perspective to tell if this is inherent to these subjects, or if there is another way to study these types of functions.
+  too computational for me at that point. I lack perspective to tell if this is inherent to these subjects, or if there is another way to study these types of functions.
 
 ### Category Theory
 
@@ -69,4 +69,4 @@ A collection of books, websites, and other resources that I have found useful.
 
 ### Other
 
-- [A great article](https://www.imo.universite-paris-saclay.fr/~amaury.freslon/Documents/Talks/Rentree_M2.pdf) about _quantum graph theory_.
+- [A great document](https://www.imo.universite-paris-saclay.fr/~amaury.freslon/Documents/Talks/Rentree_M2.pdf) about _quantum graph theory_.
