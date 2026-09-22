@@ -8,9 +8,9 @@ weight = 1
 I should mention that I spend a decent part of my time doing chess programming.
 I've been working on my chess engine Bread and contributing to Stockfish for a few years.
 
-Bread is a chess engine written in C++. I started working on it when I was in high school, and learned a lot about programming and computer science during the development process. Currently, Bread uses a heavily modified version of the minimax algorithm to search for moves, and an NNUE (Efficiently Updatable Neural Network) to evaluate leaf positions. This summer, Bread has been invited to participate to the TCEC (Top Chess Engine Championship) we'll see how it goes.
+Bread is a chess engine written in C++. I started working on it when I was in high school, and learned a lot about programming and computer science during the development process. Currently, Bread uses a heavily modified version of the minimax algorithm to search for moves, and an NNUE (Efficiently Updatable Neural Network) to evaluate leaf positions. This summer, Bread has been invited to participate to the TCEC (Top Chess Engine Championship), we'll see how it goes.
 
-If you want more information about chess programming, the readme of my engine is detailed enough to give an overview. For more details, I unfortunately do not know about a good all-in-one resource like a book. I will therefore give some that found helpful.
+If you want more information about chess programming, the readme of my engine is detailed enough to give an overview. I unfortunately do not know about a good all-in-one resource like a book. I will therefore give references that found helpful.
 
 - [Sebastian Lague's video](https://youtu.be/U4ogK0MIzqk?si=IbirXWnJiRlI1Bj9)
 
