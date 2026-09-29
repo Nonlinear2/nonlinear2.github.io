@@ -1,4 +1,11 @@
-People writing chess engines love acronyms. There are way too many, so i've written a small glossary of chess programming acronyms.
++++
+date = '2026-09-29T16:29:41+02:00'
+draft = true
+title = "Chess programming acronyms"
+weight = 0
++++
+
+People writing chess engines love acronyms. There are way too many, so i've written a small glossary.
 
 --  **general chess**:
 
@@ -11,7 +18,7 @@ People writing chess engines love acronyms. There are way too many, so i've writ
 `TC`: Time Control / [TalkChess](https://talkchess.com/)
 `STM`: Side-To-Move
 `50MR`: 50 Move Rule
-[`CCC`/`CCCC`](https://www.chess.com/computer-chess-championship): (Chess.<area>com) Computer Chess Championship
+[`CCC`/`CCCC`](https://www.chess.com/computer-chess-championship): (Chess.com) Computer Chess Championship
 [`TCEC`](https://tcec-chess.com/): Top Chess Engine Championship
 [`CCRL`](https://computerchess.org.uk/ccrl/404/): Computer Chess Rating Lists
 [`CPW`](https://www.chessprogramming.org/Main_Page): Chess Programming Wiki
