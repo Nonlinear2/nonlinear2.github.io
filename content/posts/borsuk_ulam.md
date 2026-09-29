@@ -58,7 +58,7 @@ $$
 
 And thus taking $n$ to $+\infty$, as $\frac{b_n-c}{b_n-a_n}$ and $\frac{a_n-c}{b_n-a_n}$ are bounded between $-1$ and $1$, we find $f'(c) = 0$.
 
-One concern is that $c$ may not lie in $]a, b[$. The only way this can happen is if the nested intervals $[a_n, b_n]$ shrink to either $a$ or $b$, and we can easily prevent this by chosing the interval closest to $\frac{a+b}{2}$ at each step where both intervals have $f$ differentiable.
+One concern is that $c$ may not lie in $]a, b[$. The only way this can happen is if the nested intervals $[a_n, b_n]$ shrink to either $a$ or $b$, and we can prevent this by chosing the interval closest to $\frac{a+b}{2}$ at each step where both intervals have $f$ differentiable.
 
 $\blacksquare$
 
