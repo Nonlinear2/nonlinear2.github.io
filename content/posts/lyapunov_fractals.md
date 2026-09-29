@@ -4,7 +4,7 @@ draft = false
 title = 'Lyapunov Fractals'
 +++
 
-As you can see by my profile picture and website design, I'm particularly fond of Lyapunov fractals. This project was my first attempt to learn about GPU programming, and was inspired by [this](https://youtube...) great video by desdenova. 
+As you can see by my profile picture and website design, I'm particularly fond of Lyapunov fractals. Writing [a real time renderer](https://github.com/Nonlinear2/lyapunov-fractals) was my first attempt to learn about GPU programming, and was inspired by [this](https://youtube...) video by desdenova. 
 
 
 In the following section we will discuss 2D lyapunov fractals. The generalization to higher dimensions is quite simple as you just need to allow more coordinates in the pattern, and compute the modified logistic sequence values accordingly.
