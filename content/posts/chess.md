@@ -15,10 +15,10 @@ If you want more information about chess programming, the readme of my engine is
 - [Sebastian Lague's video](https://youtu.be/U4ogK0MIzqk?si=IbirXWnJiRlI1Bj9)
 
 - [Stockfish's nnue description](https://github.com/official-stockfish/nnue-pytorch/blob/master/docs/nnue.md)
-   An *OUTDATED* description of state of the art NNUEs as of 2022. Many improvements have been made to NNUEs since then, but the core principle and many optimizations are still very well explained.
+   An *OUTDATED* description of state of the art NNUEs as of 2022. Many improvements have been made to NNUEs since then, but the core principle and some optimizations are still well explained.
 
 - [a github nnue guide](https://github.com/Kirill020708/NNUE-guide) This guide is written by known engine developers, I haven't read it yet though.
 
-And the blogs listed in the [Blogroll].
+And the blogs listed in the [Blogroll]({{< relref "../resources/_index.md" >}}).
 
 You can also join the Stockfish discord server. A lot of very helpful people and top engine developers have joined this server, and can discuss or answer questions.
