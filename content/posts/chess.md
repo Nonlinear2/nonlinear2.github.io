@@ -21,4 +21,6 @@ If you want more information about chess programming, the readme of my engine is
 
 And the blogs listed in the [Blogroll]({{< relref "../resources/_index.md" >}}).
 
-You can also join the Stockfish discord server. A lot of very helpful people and top engine developers have joined this server, and can discuss or answer questions.
+Here is a list of chess programming acronyms I wrote a while ago: [Acronyms]({{< relref "../chess_programming_acronyms.md" >}}).
+
+You can also join the Stockfish discord server. A lot of very helpful people and engine developers have joined this server, and can discuss or answer questions.

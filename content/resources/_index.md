@@ -15,8 +15,10 @@ A collection of books, websites, and other resources that I have found useful.
 ### Algebra
 
 - **D.S. Dummit & R.M Foote *Abstract Algebra***
-   The best algebra book I could find. I found module theory and smith reduction really beautiful, and this book explained
-   it all flawlessly.
+   The best algebra book I could find. I found module theory and smith reduction really beautiful, and this book explained it all flawlessly.
+
+- **J.-P. Serre *Linear Representations of Finite Groups***
+    A good resource to learn representation theory, although it is sometimes a bit computational.
 
 ### Differential Geometry
 
