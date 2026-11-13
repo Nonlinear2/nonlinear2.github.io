@@ -1,6 +1,6 @@
 +++
 date = '2026-09-29T16:29:41+02:00'
-draft = true
+draft = false
 title = "Chess programming acronyms"
 weight = 0
 +++
