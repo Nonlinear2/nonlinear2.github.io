@@ -1,6 +1,6 @@
 +++
 date = '2026-11-06T17:19:24+01:00'
-draft = true
+draft = false
 title = 'A small problem on convex geometry'
 +++
 
